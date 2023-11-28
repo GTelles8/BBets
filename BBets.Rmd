@@ -1,6 +1,6 @@
 ---
 title: "Brownlows Bets"
-author: "Your Name Goes Here"
+author: "Gracie Telles"
 output: 
   html_document:
     number_sections: true
