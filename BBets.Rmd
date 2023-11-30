@@ -30,13 +30,6 @@ source(file="BrLw.R")
 
 3. How much money would Brownlow be expected to end up with if the bets went as described.
 
-## Our strategy is to build a Function and the use it to answer the three questions. 
-
-#In the class and payoff as described  If you hired 40 Brownlow substitute teachers to do the same thing that Brownlow did then.
-#What is their average earnings
-#The standard deviation and a 95% confidence interval for their earnings?
-  
-
 # What are the fair odds? 
 
 ```{r}
@@ -56,7 +49,7 @@ print(money)
 
 To make the payoffs fair there would have to be 28 students.
 
-##Brownlow's Bank
+# Brownlow's Bank
 
 ```{r}
 money=BrLw(35,2,637)
