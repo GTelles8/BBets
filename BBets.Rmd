@@ -56,8 +56,17 @@ print(money)
 
 To make the payoffs fair there would have to be 28 students.
 
+##Brownlow's Bank
+
+```{r}
+money=BrLw(35,2,637)
+print (money)
+```
+
+Overall, Dr Brownlow will have to payout 313 in total.
+
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
+Dr. Brownlow should probably stop making these bets with students. He loses more than he wins, and then has to pay out. If he wants to start winnning his bets, he needs to change the amount of students and how much money he would pay out per the dollar bet.
 
